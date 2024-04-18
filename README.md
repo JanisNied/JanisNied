@@ -1,4 +1,4 @@
-# Welcome! Sveicināti! Добро пожаловать!
+# Welcome! Sveicināti! Добро пожаловать!🌸
 
 I'm a student from Latvia who's also an avid programming enthusiast.
 
