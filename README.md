@@ -1,4 +1,4 @@
-# Welcome! Sveicināti! Добро пожаловать!🌸
+# Welcome! Sveicināti! Добро пожаловать! Dzień dobry! 🌸
 
 <div height="32" style="">avid programmer, coffee addict<img width="21" height="21" alt="Mug image taken from https://lizarddoggo.com/products/ficsit-coffee-cup" src="https://github.com/user-attachments/assets/123348f4-8308-4c17-bce5-12c788dfbeb6" /></div>
 
